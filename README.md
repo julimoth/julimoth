@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @julimoth
-- 👀 I’m interested in ... sociolinguistics, legal studies, and library & information science!
+- 👋 Hi, I’m @julimoth 💞️
+- 👀 I’m interested in ... applying empirical methods to legal and political study!
 - 🌱 I’m currently learning ... R!
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jemothersbaugh@uchicago.edu
 
 <!---
