@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @julimoth 💞️
 - 👀 I’m interested in ... applying empirical methods to legal, political, and policy study!
-- 🌱 I’m currently learning ... R!
 - 📫 How to reach me ... jemothersbaugh@uchicago.edu
 
 <!---
