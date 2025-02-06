@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julimoth 💞️
-- 👀 I’m interested in ... applying empirical methods to legal, political, and policy study!
+- 👀 I’m interested in ... using quantitative methods to evaluate how law creates (in)equality in modern democracies!
 - 📫 How to reach me ... juliana.mothersbaugh@yale.edu
 
 <!---
